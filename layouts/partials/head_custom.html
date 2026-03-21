@@ -3,3 +3,17 @@ body, h1, h2, h3, h4, h5, h6, p, a, li, td, th, input, button, select, textarea 
   font-family: "Meiryo", "メイリオ", "Hiragino Kaku Gothic ProN", sans-serif !important;
 }
 </style>
+
+{{/* OGP: og:image */}}
+{{ $ogImage := "https://echinoid.jp/images/profile.png" }}
+{{ with .Params.image }}{{ $ogImage = . | absURL }}{{ end }}
+<meta property="og:image" content="{{ $ogImage }}" />
+<meta property="og:image:width"  content="400" />
+<meta property="og:image:height" content="400" />
+
+{{/* meta description fallback */}}
+{{ if not .Description }}
+  {{ with site.Params.description }}
+    <meta name="description" content="{{ . }}" />
+  {{ end }}
+{{ end }}

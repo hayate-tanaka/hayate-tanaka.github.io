@@ -1,10 +1,13 @@
 baseurl = "https://echinoid.jp"
-DefaultContentLanguage = "en"
+languageCode = "ja"
+DefaultContentLanguage = "ja"
 title = "Hayate TANAKA"
+enableRobotsTXT = true
 
 [caches]
   [caches.images]
     dir = ":cacheDir/images"
+
 # Using theme as git submodule
 theme = "beautifulhugo"
 # Or when using theme as hugo module
@@ -26,65 +29,38 @@ pygmentsCodefencesGuessSyntax = true
     # id = "XXX"
 
 [Params]
-#  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
-  subtitle = "ウニの分類学研究者"
-  mainSections = ["post","posts"]
+  description = "棘皮動物ウニ綱の分類学を研究する田中颯の個人サイトです。論文・学会発表・著書などの業績情報を掲載しています。"
+  mainSections = ["post", "posts"]
+  logo        = "img/avatar-icon.png"
+  favicon     = "img/favicon.ico"
+  dateFormat  = "January 2, 2006"
+  commit      = false
+  rss         = true
+  comments    = false
+  readingTime = false
+  wordCount   = false
+  useHLJS     = true
+  socialShare = false
+  delayDisqus = false
+  showRelatedPosts = false
 
 [[Params.bigimg]]
-  src = "images/header.png"
+  src  = "images/header.png"
   desc = "Sea Urchins"
-  logo = "img/avatar-icon.png" # Expecting square dimensions
-  favicon = "img/favicon.ico"
-  dateFormat = "January 2, 2006"
-  commit = false
-  rss = true
-  comments = true
-  readingTime = true
-  wordCount = true
-  useHLJS = true
-  socialShare = true
-  delayDisqus = true
-  showRelatedPosts = true
-#  cusdisID = "XXX" # Get your App id from cusdis.com
-#  hideAuthor = true
-#  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
-#  disclaimerText = "The opinions expressed herein are my own personal opinions and do not represent my employer’s view in any way."
-
-#[[Params.bigimg]]
-#  src = "img/triangle.jpg"
-#  desc = "Triangle"
-#[[Params.bigimg]]
-#  src = "img/sphere.jpg"
-#  desc = "Sphere"
-#  # position: see values of CSS background-position.
-#  position = "center top"
-#[[Params.bigimg]]
-#  src = "img/hexagon.jpg"
-#  desc = "Hexagon"
 
 [Params.author]
-  name = "田中颯 (Hayate Tanaka)"
+  name    = "田中颯 (Hayate Tanaka)"
   website = "hayate-tanaka.github.io"
   facebook = "tanaka.hayate"
-  github = "hayate-tanaka"
-  twitter = "HTanattyo"
+  github   = "hayate-tanaka"
+  twitter  = "HTanattyo"
 
 [[menu.main]]
-    name = "Posts"
-    url = ""
-    weight = 1
+  name   = "About"
+  url    = "page/about/"
+  weight = 1
 
 [[menu.main]]
-    name = "About"
-    url = "page/about/"
-    weight = 2
-
-[[menu.main]]
-    name = "CV"
-    url = "page/outputs/"
-    weight = 3
-
-[[menu.main]]
-    name = "Tags"
-    url = "tags"
-    weight = 4
+  name   = "CV"
+  url    = "page/outputs/"
+  weight = 2

@@ -1,6 +1,8 @@
 ---
 title: CV
 subtitle: Publications & Activities
+description: "田中颯（Hayate TANAKA）の業績一覧です。査読論文・学会発表・著書・メディア出演などを掲載しています。"
+lastmod: 2026-03-22
 comments: false
 ---
 
