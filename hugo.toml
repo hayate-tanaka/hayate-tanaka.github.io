@@ -1,5 +1,5 @@
 baseurl = "https://echinoid.jp"
-DefaultContentLanguage = "ja"
+DefaultContentLanguage = "en"
 title = "Hayate TANAKA"
 # Using theme as git submodule
 theme = "beautifulhugo"
