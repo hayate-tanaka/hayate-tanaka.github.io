@@ -1,6 +1,6 @@
 baseurl = "https://hayate-tanaka.github.io/"
 languageCode = "ja"
-DefaultContentLanguage = "ja"
+DefaultContentLanguage = "en"  # URLパスの制御。"ja"にするとURLが/ja/...になり404になる
 title = "Hayate TANAKA"
 enableRobotsTXT = true
 

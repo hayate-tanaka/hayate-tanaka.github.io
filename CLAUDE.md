@@ -23,3 +23,9 @@
 
 ### ヘッダー画像
 - `static/images/` に配置し `hugo.toml` の `[[Params.bigimg]]` で指定
+
+### 言語設定（重要）
+- `languageCode = "ja"` → `<html lang="ja">` を出力。日本語サイトの宣言はこれだけで十分
+- `DefaultContentLanguage = "en"` → **絶対に "ja" に変えないこと**
+  - `"ja"` にするとコンテンツURLが `/ja/page/about/` になり **About・CVページが404になる**
+  - URL構造の制御であり、表示言語とは無関係
