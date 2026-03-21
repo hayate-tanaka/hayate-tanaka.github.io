@@ -1,16 +1,40 @@
 ---
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: 管理人について
+subtitle: About me
 comments: false
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+![profile image](/images/profile.png)
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+## Profile / 自己紹介
 
-What else do you need?
+田中颯（Hayate TANAKA）
 
-### my history
+1994年生まれ。京都府京都市出身。
+専門はウニの分類学。東京海洋大学海洋科学部海洋環境学科。東京大学理学系研究科生物科学専攻。
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+著書に『ウニハンドブック』（文一総合出版）など。
+
+[Twitter](https://twitter.com/HTanattyo) /
+[Facebook](https://www.facebook.com/tanaka.hayate) /
+[GitHub](https://github.com/tanattyo)
+
+## Research / 研究活動
+
+棘皮動物ウニ綱の分類学を研究しています。太平洋西岸域を対象にフィールドや博物館を調査し、ウニ類の興味深い多様性の解明に取り組んでいます。
+
+自然史研究のためのインフラやデジタルアーカイブにも興味があります。
+
+国際動物命名規約の啓蒙や自然愛好家向けのオンライン誌の運用にも取り組んでいます。
+
+共同研究などや情報提供など、お気軽にご相談ください。
+
+## History / 略歴
+
+- 1994-03：京都にて誕生
+- 2012-03：京都府立京都すばる高等学校 情報科学科 卒業
+- 2012-04：東京海洋大学 海洋科学部 海洋環境学科 入学
+- 2016-03：東京海洋大学 海洋科学部 海洋環境学科 卒業
+- 2016-04：東京大学 大学院理学系研究科 生物科学専攻 入学
+- 2019-03：東京大学 大学院理学系研究科 生物科学専攻 修了
+- 2019-04：某IT開発本部
