@@ -1,0 +1,30 @@
+{{ define "main" }}
+  <div role="main" class="container">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+
+        <div style="display: flex; align-items: flex-start; gap: 2rem; margin: 2.5rem 0;">
+          <img src="/images/profile.png" alt="Hayate Tanaka"
+               style="width: 140px; height: 140px; object-fit: cover; border-radius: 50%; flex-shrink: 0; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
+          <div>
+            <h2 style="margin-top: 0;">田中 颯 <small>Hayate TANAKA</small></h2>
+            <p>棘皮動物ウニ綱の分類学を研究しています。太平洋西岸域を対象にフィールドや博物館を調査し、ウニ類の興味深い多様性の解明に取り組んでいます。</p>
+            <p>
+              <a href="/page/about/" class="btn btn-default btn-sm">管理人について</a>
+              <a href="/page/outputs/" class="btn btn-default btn-sm" style="margin-left: 0.5rem;">業績</a>
+              <a href="https://twitter.com/HTanattyo" class="btn btn-default btn-sm" style="margin-left: 0.5rem;" target="_blank" rel="noopener">Twitter</a>
+              <a href="https://github.com/tanattyo" class="btn btn-default btn-sm" style="margin-left: 0.5rem;" target="_blank" rel="noopener">GitHub</a>
+            </p>
+          </div>
+        </div>
+
+        <hr>
+
+        {{ with .Content }}
+          <div>{{ . }}</div>
+        {{ end }}
+
+      </div>
+    </div>
+  </div>
+{{ end }}

@@ -1,6 +1,6 @@
 baseurl = "https://echinoid.jp"
 DefaultContentLanguage = "ja"
-title = "田中颯"
+title = "Hayate TANAKA"
 # Using theme as git submodule
 theme = "beautifulhugo"
 # Or when using theme as hugo module
@@ -25,6 +25,10 @@ pygmentsCodefencesGuessSyntax = true
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
   subtitle = "ウニの分類学研究者"
   mainSections = ["post","posts"]
+
+[[Params.bigimg]]
+  src = "images/header.png"
+  desc = "Sea Urchins"
   logo = "img/avatar-icon.png" # Expecting square dimensions
   favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
