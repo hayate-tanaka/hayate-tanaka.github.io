@@ -1,0 +1,23 @@
+# Hugo generated files
+/public/
+/resources/_gen/
+hugo_stats.json
+
+# Hugo executables
+hugo.exe
+hugo.darwin
+hugo.linux
+
+# Build lock
+.hugo_build.lock
+
+# Old sites (managed separately)
+mypage/
+mysite/
+
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
