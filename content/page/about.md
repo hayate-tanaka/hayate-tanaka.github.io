@@ -1,6 +1,6 @@
 ---
-title: 管理人について
-subtitle: About me
+title: About
+subtitle: Hayate TANAKA
 comments: false
 ---
 

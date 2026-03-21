@@ -1,5 +1,5 @@
 ---
-title: 業績
+title: CV
 subtitle: Publications & Activities
 comments: false
 ---
