@@ -1,4 +1,4 @@
-baseurl = "https://echinoid.jp"
+baseurl = "https://hayate-tanaka.github.io/"
 languageCode = "ja"
 DefaultContentLanguage = "ja"
 title = "Hayate TANAKA"
@@ -31,7 +31,7 @@ pygmentsCodefencesGuessSyntax = true
 [Params]
   description = "棘皮動物ウニ綱の分類学を研究する田中颯の個人サイトです。論文・学会発表・著書などの業績情報を掲載しています。"
   mainSections = ["post", "posts"]
-  logo        = "img/avatar-icon.png"
+#  logo        = "img/avatar-icon.png"
   favicon     = "img/favicon.ico"
   dateFormat  = "January 2, 2006"
   commit      = false
