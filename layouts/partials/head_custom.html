@@ -2,6 +2,15 @@
 body, h1, h2, h3, h4, h5, h6, p, a, li, td, th, input, button, select, textarea {
   font-family: "Meiryo", "メイリオ", "Hiragino Kaku Gothic ProN", sans-serif !important;
 }
+
+/* 長いURLや日本語テキストによるモバイルでの横溢れを防ぐ */
+body {
+  overflow-x: hidden;
+}
+.blog-post p, .blog-post li {
+  overflow-wrap: break-word;
+  word-break: break-word;
+}
 </style>
 
 {{/* OGP: og:image */}}

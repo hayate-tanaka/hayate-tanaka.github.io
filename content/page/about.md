@@ -11,10 +11,6 @@ comments: false
 
 1994年、京都生まれ。東京海洋大学海洋科学部を経て、東京大学大学院理学系研究科生物科学専攻修了。専門はウニの分類学。著書に『ウニハンドブック』（文一総合出版）など。
 
-[Twitter](https://twitter.com/HTanattyo) /
-[Facebook](https://www.facebook.com/tanaka.hayate) /
-[GitHub](https://github.com/tanattyo)
-
 ## Research / 研究活動
 
 棘皮動物ウニ綱の分類学を研究しています。太平洋西岸域を対象にフィールドワークや博物館調査を行い、ウニ類の多様性の解明に取り組んでいます。
