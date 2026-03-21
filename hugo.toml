@@ -64,9 +64,9 @@ pygmentsCodefencesGuessSyntax = true
 
 [Params.author]
   name = "田中颯 (Hayate Tanaka)"
-  website = "echinoid.jp"
+  website = "hayate-tanaka.github.io"
   facebook = "tanaka.hayate"
-  github = "tanattyo"
+  github = "hayate-tanaka"
   twitter = "HTanattyo"
 
 [[menu.main]]
