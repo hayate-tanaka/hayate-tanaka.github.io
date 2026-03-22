@@ -1,11 +1,12 @@
 ---
 title: About
-subtitle: Hayate TANAKA
 description: "田中颯（Hayate TANAKA）のプロフィールページです。棘皮動物ウニ綱の分類学研究者。略歴・研究内容・連絡先を掲載しています。"
 comments: false
 ---
 
 ![profile image](/images/profile.png)
+
+# 田中 颯（Hayate TANAKA）
 
 ## Profile / 自己紹介
 
