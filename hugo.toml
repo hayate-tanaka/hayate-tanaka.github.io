@@ -32,10 +32,10 @@ pygmentsCodefencesGuessSyntax = true
   description = "棘皮動物ウニ綱の分類学を研究する田中颯の個人サイトです。論文・学会発表・著書などの業績情報を掲載しています。"
   mainSections = ["post", "posts"]
 #  logo        = "img/avatar-icon.png"
-  favicon     = "img/favicon.ico"
+  favicon     = "img/favicon.png"
   dateFormat  = "January 2, 2006"
   commit      = false
-  rss         = true
+  rss         = false
   comments    = false
   readingTime = false
   wordCount   = false
@@ -54,6 +54,7 @@ pygmentsCodefencesGuessSyntax = true
   facebook = "tanaka.hayate"
   github   = "hayate-tanaka"
   twitter  = "HTanattyo"
+  linkedin = "tanaka-hayate"
 
 [[menu.main]]
   name   = "About"
