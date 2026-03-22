@@ -1,4 +1,4 @@
-module github.com/hayate-tanaka/hayate-tanaka.github.io
+module github.com/hayate-tanaka/hayate-tanaka.com
 
 go 1.25.6
 

@@ -1,4 +1,4 @@
-baseurl = "https://hayate-tanaka.github.io/"
+baseurl = "https://hayate-tanaka.com/"
 languageCode = "ja"
 DefaultContentLanguage = "en"  # URLパスの制御。"ja"にするとURLが/ja/...になり404になる
 title = "Hayate TANAKA"
@@ -50,7 +50,7 @@ pygmentsCodefencesGuessSyntax = true
 
 [Params.author]
   name    = "田中颯 (Hayate Tanaka)"
-  website = "hayate-tanaka.github.io"
+  website = "hayate-tanaka.com"
   facebook = "tanaka.hayate"
   github   = "hayate-tanaka"
   twitter  = "HTanattyo"
