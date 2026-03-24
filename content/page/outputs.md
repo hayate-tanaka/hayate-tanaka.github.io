@@ -21,6 +21,8 @@ Lee, H., Lee, KS., Hsu, CH. et al. (2023) Phylogeny, ancestral ranges and reclas
 
 Akito Ogawa, Naoto Jimi, Shimpei F. Hiruta, Chong Chen, Itaru Kobayashi, Gregorius Altius Pratama, **Hayate Tanaka**, Masanori Okanishi, Hironori Komatsu, Minoru Ikehara (2022) Taxonomy and distribution of deep benthos collected in and around the Southern Ocean during the 30th Anniversary expeditions of R/V Hakuho Maru: Annelida, Mollusca, Ostracoda, Decapoda, and Echinodermata. *Polar Science*, 32, 100846. https://doi.org/10.1016/j.polar.2022.100846
 
+熊澤 辰徳, 林 亮太, **田中 颯**, 日比野 友亮, 神保 宇嗣, 吉富 博之, 大西 亘, 中島 淳, 早川 昌志 (2022) 『ニッチェ・ライフ』の各投稿区分における運用方針. *ニッチェライフ*. 9: 108–112. [論文PDF](https://media.niche-life.com/series/009/Niche009_01.pdf)
+
 幸塚久典, **田中 颯** (2022) オタフクブンブクおよびガンガゼモドキ（棘皮動物門 : 海胆綱）の相模湾からの記録. *日本生物地理学会会報*. 77: 114–118.
 
 幸塚久典, 石井輪太郎, **田中 颯** (2022) 新潟県佐渡島沖から得られたコイボダイオウウニ（新称）*Stereocidaris microtuberculata*（棘皮動物門，ウニ綱，オウサマウニ目）の記録. 日本生物地理学会会報. 77: 50–53.
