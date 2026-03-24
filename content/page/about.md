@@ -1,5 +1,5 @@
 ---
-title: About
+title: About me
 description: "田中颯（Hayate TANAKA）のプロフィールページです。棘皮動物ウニ綱の分類学研究者。略歴・研究内容・連絡先を掲載しています。"
 comments: false
 ---
